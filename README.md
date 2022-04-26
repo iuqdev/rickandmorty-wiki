@@ -1,4 +1,11 @@
-# Rickymorty
+# Rick&Morty Wiki
+
+Project created in order test the rickandmorty free API www.rickandmortyapi.com
+
+Project deployed on:
+https://rickandmorty-wiki-iuq.netlify.app
+
+---------------------------------------------------------------------
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
